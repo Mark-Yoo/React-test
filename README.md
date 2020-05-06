@@ -1,3 +1,13 @@
+# Enviroment Setting
+
+- eslint
+  - airbnb format
+- prettier
+- eslint-config-prettier (remove repetition)
+- husky
+- lint-staged
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
